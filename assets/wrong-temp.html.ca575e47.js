@@ -1,0 +1,1 @@
+const t={key:"v-67ced468",path:"/i18n/zh/documents/FAQ/wrong-temp.html",title:"wrong temp",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"i18n/zh/documents/FAQ/wrong-temp.md"};export{t as data};

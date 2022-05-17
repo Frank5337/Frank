@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as c,b as s}from"./app.be489ec1.js";const r={},o={id:"quick-start",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#quick-start","aria-hidden":"true"},"#",-1),n=s(" Quick Start"),d=[_,n];function i(h,f){return t(),a("h1",o,d)}var l=e(r,[["render",i]]);export{l as default};

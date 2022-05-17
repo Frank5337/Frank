@@ -1,0 +1,1 @@
+const e={key:"v-764aa4e0",path:"/i18n/zh/code/audition/sys_design.html",title:"\u7CFB\u7EDF\u8BBE\u8BA1",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"i18n/zh/code/audition/sys_design.md"};export{e as data};

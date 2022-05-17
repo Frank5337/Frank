@@ -1,0 +1,1 @@
+const t={key:"v-c0f957a0",path:"/documents/",title:"Quick Start",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"documents/README.md"};export{t as data};

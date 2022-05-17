@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t,b as a}from"./app.be489ec1.js";const r={},c={id:"sponsor",tabindex:"-1"},n=t("a",{class:"header-anchor",href:"#sponsor","aria-hidden":"true"},"#",-1),_=a(" Sponsor"),d=[n,_];function h(i,p){return o(),s("h1",c,d)}var l=e(r,[["render",h]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s,b as c}from"./app.be489ec1.js";const o={},r={id:"\u7F16\u7801",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#\u7F16\u7801","aria-hidden":"true"},"#",-1),n=c(" \u7F16\u7801"),d=[_,n];function i(h,f){return t(),a("h1",r,d)}var p=e(o,[["render",i]]);export{p as default};

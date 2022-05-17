@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as r}from"./app.be489ec1.js";const s={},c={id:"wrong-temp",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#wrong-temp","aria-hidden":"true"},"#",-1),_=r(" wrong temp"),d=[n,_];function h(i,p){return t(),o("h1",c,d)}var f=e(s,[["render",h]]);export{f as default};

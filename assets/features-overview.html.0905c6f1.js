@@ -1,0 +1,1 @@
+const e={key:"v-86f69820",path:"/i18n/zh/documents/features-overview.html",title:"\u529F\u80FD\u4E00\u89C8",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"i18n/zh/documents/features-overview.md"};export{e as data};

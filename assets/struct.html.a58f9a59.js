@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,a as c,b as s}from"./app.be489ec1.js";const o={},a={id:"project-structure",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#project-structure","aria-hidden":"true"},"#",-1),n=s(" project structure"),d=[_,n];function h(i,u){return t(),r("h1",a,d)}var f=e(o,[["render",h]]);export{f as default};

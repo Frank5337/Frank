@@ -1,0 +1,1 @@
+const e={key:"v-be85cdce",path:"/code/audition/",title:"\u9762\u8BD5\u6307\u5357",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"code/audition/README.md"};export{e as data};

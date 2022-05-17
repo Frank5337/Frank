@@ -1,0 +1,1 @@
+const e={key:"v-44936f88",path:"/i18n/zh/documents/features/feat-temp.html",title:"something",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"i18n/zh/documents/features/feat-temp.md"};export{e as data};

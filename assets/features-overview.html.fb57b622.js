@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as r,b as s}from"./app.be489ec1.js";const c={},o={id:"feature",tabindex:"-1"},_=r("a",{class:"header-anchor",href:"#feature","aria-hidden":"true"},"#",-1),n=s(" feature"),d=[_,n];function i(f,h){return t(),a("h1",o,d)}var l=e(c,[["render",i]]);export{l as default};

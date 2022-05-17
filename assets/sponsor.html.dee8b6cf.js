@@ -1,0 +1,1 @@
+const t={key:"v-c961cdc2",path:"/i18n/zh/documents/statement/sponsor.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652758418e3,contributors:[{name:"Augus",email:"34206897+DrAugus@users.noreply.github.com",commits:1}]},filePathRelative:"i18n/zh/documents/statement/sponsor.md"};export{t as data};

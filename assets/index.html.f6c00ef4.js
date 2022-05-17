@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as c}from"./app.be489ec1.js";const n={},r={id:"coding-everything",tabindex:"-1"},s=a("a",{class:"header-anchor",href:"#coding-everything","aria-hidden":"true"},"#",-1),d=c(" Coding Everything"),i=[s,d];function _(h,f){return t(),o("h1",r,i)}var l=e(n,[["render",_]]);export{l as default};
